@@ -1,0 +1,15 @@
+node_modules/
+finora-dashboard/node_modules/
+server/node_modules/
+
+.env
+.env.*
+finora-dashboard/.env
+server/.env
+
+dist/
+build/
+
+*.log
+.DS_Store
+Thumbs.db
